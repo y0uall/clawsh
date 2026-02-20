@@ -1,17 +1,22 @@
-<p align="center">
-  <h1 align="center">🦀 clawsh</h1>
-  <p align="center">
-    <strong>Async reverse shell framework — single binary, zero dependencies</strong>
+  <p align="center">                                                                                                                                                                                                               
+    <h1 align="center">🦀 clawsh</h1>                                                                                                                                                                                              
+    <p align="center">                                                                                                                                                                                                             
+      <strong>Async reverse shell framework — single binary, zero dependencies</strong>                                                                                                                                            
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/built%20with-Rust-orange?logo=rust" alt="Rust">
+      <img src="https://img.shields.io/badge/license-proprietary-red" alt="License">
+      <a href="PROTOCOL.md"><img src="https://img.shields.io/badge/protocol-documented-blue" alt="Protocol"></a>
+    </p>
+    <p align="center">
+      <a href="#installation">Installation</a> •
+      <a href="#quick-start">Quick Start</a> •
+      <a href="#features">Features</a> •
+      <a href="#modules">Modules</a> •
+      <a href="#plugins">Plugins</a> •
+      <a href="#license">License</a>
+    </p>
   </p>
-  <p align="center">
-    <a href="#installation">Installation</a> •
-    <a href="#quick-start">Quick Start</a> •
-    <a href="#features">Features</a> •
-    <a href="#modules">Modules</a> •
-    <a href="#plugins">Plugins</a> •
-    <a href="#license">License</a>
-  </p>
-</p>
 
 ---
 
